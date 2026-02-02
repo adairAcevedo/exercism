@@ -1,6 +1,3 @@
-/// <reference path="./global.d.ts" />
-// @ts-check
-
 /**
  * Get the first card in the given deck
  *
