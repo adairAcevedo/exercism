@@ -4,7 +4,6 @@
  * @param {...number} ids
  * @returns {number[]} wagon ids
  */
-// export function getListOfWagons(a, b, c, d, e, f, g, h, i, j, k, l, m, n) {
 export function getListOfWagons(...numbers) {
   return numbers;
 }
